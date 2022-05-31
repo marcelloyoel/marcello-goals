@@ -1,6 +1,5 @@
 Bahasa yang perlu saya pelajari:
-1. C
-2. HTML CSS JavaScript
-3. Framework CSS
-4. Java
+1. HTML CSS JavaScript
+2. Framework CSS
+3. Java
 
