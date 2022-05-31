@@ -2,4 +2,6 @@ Bahasa yang perlu saya pelajari:
 1. HTML CSS JavaScript
 2. Framework CSS
 3. Java
+4. Angular
+
 
