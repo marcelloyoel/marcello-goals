@@ -4,6 +4,8 @@ Bahasa yang perlu saya pelajari:
 3. Java
 ^Java PSD
 ^Java LAB
+^Java OOP
 4. Angular
+
 
 
